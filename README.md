@@ -1,4 +1,4 @@
-Hola Mundo, 👋 My name is Gideon
+Hola Mundo 👋 My name is Gideon
 =======================
 
 Web Developer and UI UX Designer
@@ -12,6 +12,11 @@ I am a self taught developer building the future with my peers in Africa and the
 * 🧠  I'm learning about Web3
 * 🤝  I'm open to collaborating on Open Source projects
 * ⚡  Oh and guess what, Estoy aprendiendo español
+
+<a href="https://www.twitter.com/taadi_techie" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/taadi_techie?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
+/></a><a href="https://www.github.com/gideonadcodez" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/gideonadcodez?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -31,15 +36,17 @@ I am a self taught developer building the future with my peers in Africa and the
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/gideonadcodez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/appaugideon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/taadi-techie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/gideonadcodez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/appaugideon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/taadi_techie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/gideonadcodez"><img src="https://github-readme-stats.vercel.app/api?username=gideonadcodez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gideonadcodez's GitHub stats" /></a>
+<a href="http://www.github.com/gideonadcodez"><img src="https://github-readme-stats.vercel.app/api?username=gideonadcodez&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="gideonadcodez's GitHub stats" /></a>
 
-<a href="https://github.com/gideonadcodez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideonadcodez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/gideonadcodez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gideonadcodez&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/gideonadcodez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gideonadcodez&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
