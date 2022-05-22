@@ -1,10 +1,11 @@
 Hola mundo 👋 My name is Gideon
 =======================
 
-Front-End Unicorn🦄 • Solving problems with Code👨‍💻, Design🎨 and Writing• Javascript❤️🚀
+Front-End Unicorn🦄❤️🚀
 --------------------------------
 
 I am a self taught developer building the future with my peers in Africa and the world at large.
+*iWrite *iCode *iDesign
 
 * 🌍  I'm based in Sekondi-Takoradi, Ghana.
 * 🖥️  Take a look at my portfolio at [Appau](http://appau.netlify.app)
