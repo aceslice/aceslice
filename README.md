@@ -5,7 +5,7 @@ Front-End Unicorn🦄❤️🚀
 --------------------------------
 
 I am a self taught developer building the future with my peers in Africa and the world at large.
-*iWrite *iCode *iDesign
+
 
 * 🌍  I'm based in Sekondi-Takoradi, Ghana.
 * 🖥️  Take a look at my portfolio at [Appau](http://appau.netlify.app)
@@ -13,6 +13,10 @@ I am a self taught developer building the future with my peers in Africa and the
 * 🧠  I'm currently learning about Web3 and Cryptography
 * 🤝  I'm open to collaborating on Open Source projects
 * ⚡  Oh and guess what, Estoy aprendiendo español.
+
+* iWrite 
+* 👨‍💻 iCode
+* 🎨 iDesign
 
 <a href="https://www.twitter.com/TheAppau" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TheAppau?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
@@ -49,6 +53,6 @@ src="https://img.shields.io/github/followers/TheAppau?logo=github&style=for-the-
 
 <a href="https://github.com/TheAppau" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAppau&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Would You Love To Buy Me A Coffee?
 
 <a href="https://www.buymeacoffee.com/gideonad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
