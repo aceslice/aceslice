@@ -1,17 +1,17 @@
 Hola mundo 👋 My name is Gideon
 =======================
 
-Web Developer and UI UX Designer
+Front-End Unicorn🦄 • Solving problems with Code👨‍💻, Design🎨 and Writing• Javascript❤️🚀
 --------------------------------
 
 I am a self taught developer building the future with my peers in Africa and the world at large.
 
-* 🌍  I'm based in Ghana
-* 🖥️  See my portfolio at [Appau](http://appau.netlify.app)
+* 🌍  I'm based in Sekondi-Takoradi, Ghana.
+* 🖥️  Take a look at my portfolio at [Appau](http://appau.netlify.app)
 * ✉️  You can contact me at [gideonad.codez@gmail.com](mailto:gideonad.codez@gmail.com)
-* 🧠  I'm learning about Web3
+* 🧠  I'm currently learning about Web3 and Cryptography
 * 🤝  I'm open to collaborating on Open Source projects
-* ⚡  Oh and guess what, Estoy aprendiendo español
+* ⚡  Oh and guess what, Estoy aprendiendo español.
 
 <a href="https://www.twitter.com/TheAppau" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TheAppau?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
