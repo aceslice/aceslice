@@ -18,7 +18,7 @@ I am a self taught developer building the future with my peers in Africa and the
 * 👨‍💻 iCode
 * 🎨 iDesign
 
-<a href="https://www.twitter.com/TheAppau" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/aceslice_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TheAppau?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a><a href="https://www.github.com/TheAppau" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheAppau?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
