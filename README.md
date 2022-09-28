@@ -7,9 +7,11 @@ Front-End Unicorn🦄❤️🚀
 I am a front end developer and UI/UX strongly focused on building beautiful and functional User Interfaces
 
 
- 🌍  I'm based in Sekondi-Takoradi, Ghana.
+ 🌍  I'm based in Sekondi-Takoradi, Ghana. <br>
  🖥️  Take a look at my portfolio at [Appau](http://appau.netlify.app)
+	<br>
  ✉️  You can contact me at [gideonad.codez@gmail.com](mailto:gideonad.codez@gmail.com)
+	<br>
  🧠  I'm currently learning about 
  
  - React JS
