@@ -4,21 +4,22 @@ Hola mundo 👋 My name is Gideon
 Front-End Unicorn🦄❤️🚀
 --------------------------------
 
-I am a self taught developer building the future with my peers in Africa and the world at large.
+I am a front end developer and UI/UX strongly focused on building beautiful and functional User Interfaces
 
 
-* 🌍  I'm based in Sekondi-Takoradi, Ghana.
-* 🖥️  Take a look at my portfolio at [Appau](http://appau.netlify.app)
-* ✉️  You can contact me at [gideonad.codez@gmail.com](mailto:gideonad.codez@gmail.com)
-* 🧠  I'm currently learning about Web3 and Cryptography
-* 🤝  I'm open to collaborating on Open Source projects
-* ⚡  Oh and guess what, Estoy aprendiendo español.
+ 🌍  I'm based in Sekondi-Takoradi, Ghana.
+ 🖥️  Take a look at my portfolio at [Appau](http://appau.netlify.app)
+ ✉️  You can contact me at [gideonad.codez@gmail.com](mailto:gideonad.codez@gmail.com)
+ 🧠  I'm currently learning about 
+ 
+ - React JS
+ - Web3 
+ - Cryptography
+ 
+ 🤝  I'm open to collaborating on Open Source projects
+ ⚡  Oh and guess what, Estoy aprendiendo español.
 
-* iWrite 
-* 👨‍💻 iCode
-* 🎨 iDesign
-
-<a href="https://www.twitter.com/aceslice_" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/theappau" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TheAppau?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a><a href="https://www.github.com/TheAppau" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheAppau?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
