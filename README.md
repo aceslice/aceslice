@@ -19,6 +19,7 @@ I am a front end developer and UI/UX strongly focused on building beautiful and 
  - Cryptography
  
  🤝  I'm open to collaborating on Open Source projects
+ <br>
  ⚡  Oh and guess what, Estoy aprendiendo español.
 
 <a href="https://www.twitter.com/theappau" target="_blank" rel="noreferrer"><img
