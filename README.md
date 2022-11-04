@@ -1,62 +1,29 @@
-Hola mundo 👋 My name is Gideon
-=======================
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theappau&label=Profile%20views&color=e91e63&style=flat" alt="theappau" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/theappau?style=social" alt="theappau" /> </p>
 
-Front-End Unicorn🦄❤️🚀
---------------------------------
+# Hola Mundo! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="Hello gif">, Gideon here!
 
-I am a front end developer and UI/UX strongly focused on building beautiful and functional User Interfaces
-
-
- 🌍  I'm based in Sekondi-Takoradi, Ghana. <br>
- 🖥️  Take a look at my portfolio at [Appau](http://appau.netlify.app)
-	<br>
- ✉️  You can contact me at [gideonad.codez@gmail.com](mailto:gideonad.codez@gmail.com)
-	<br>
- 🧠  I'm currently learning about 
- 
- - React JS
- - Web3 
- - Cryptography
- 
- 🤝  I'm open to collaborating on Open Source projects
- <br>
- ⚡  Oh and guess what, Estoy aprendiendo español.
-
-<a href="https://www.twitter.com/theappau" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TheAppau?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
-/></a><a href="https://www.github.com/TheAppau" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TheAppau?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
-
-### Skills
+- 🌱 I'm currently learning about Web3 and UI/UX Design.
+- 🌱 I’m  working on frontend projects.
+- 📫 Reach me @ appaugideon8899@gmail.com
+- 🌌 Skilled in - Frontend Web Development
+<h3 align="left">⚙ My Tech Stack:</h3>
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30" >&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" >&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp;
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/TheAppau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/appaugideon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aceslice_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/TheAppau"><img src="https://github-readme-stats.vercel.app/api?username=TheAppau&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="TheAppau's GitHub stats" /></a>
-
-<a href="http://www.github.com/TheAppau"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAppau&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/TheAppau" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAppau&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Lets Grab A Coffee Sometime
-
-<a href="https://www.buymeacoffee.com/aceslice"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+## **I love writing codes that builds**
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theappau&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theappau&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theappau&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theappau&theme=github_dark)
+[![Gideon Appau's stats](https://github-readme-stats.vercel.app/api?username=theappau&show_icons=true&theme=github_dark)](https://github.com/theappau)
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theappau&theme=dracula)  
