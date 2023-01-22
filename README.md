@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning about Web3 and UI/UX Design.
 - 🌱 I’m  working on frontend projects.
-- 📫 Reach me @ appaugideon8899@gmail.com
+- 📫 Reach me @ agideonad.codez@gmail.com
 - 🌌 Skilled in - Frontend Web Development
 <h3 align="left">⚙ My Tech Stack:</h3>
 
