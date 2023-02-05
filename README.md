@@ -1,5 +1,5 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=theappau&label=Profile%20views&color=e91e63&style=flat" alt="theappau" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/theappau?style=social" alt="theappau" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aceslice&label=Profile%20views&color=e91e63&style=flat" alt="aceslice" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/aceslice?style=social" alt="aceslice" /> </p>
 
 # Hola Mundo! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="Hello gif">, Gideon here!
 
@@ -20,10 +20,10 @@
 </p>
 
 ## **I love writing codes that builds**
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theappau&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theappau&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theappau&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theappau&theme=github_dark)
-[![Gideon Appau's stats](https://github-readme-stats.vercel.app/api?username=theappau&show_icons=true&theme=github_dark)](https://github.com/theappau)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=aceslice&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aceslice&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aceslice&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aceslice&theme=github_dark)
+[![Gideon Appau's stats](https://github-readme-stats.vercel.app/api?username=aceslice&show_icons=true&theme=github_dark)](https://github.com/aceslice)
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theappau&theme=dracula)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aceslice&theme=dracula)  
