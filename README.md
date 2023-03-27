@@ -26,4 +26,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aceslice&theme=github_dark)
 [![Gideon Appau's stats](https://github-readme-stats.vercel.app/api?username=aceslice&show_icons=true&theme=github_dark)](https://github.com/aceslice)
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aceslice&theme=dracula)  
