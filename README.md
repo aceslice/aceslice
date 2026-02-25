@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Gideon, a front-end web developer with 3+ years of experience from Ghana<br><br>- 🔭 I’m working to become a techpreneur, founder and software engineer, building amazing products and turning pain points into solutions in Africa and the whole world. Also learning product management, web3 and cyber security (because why not?)  <br><br>- 📚 I'm currently learning about the backend so that I can transition into a full-stack developer and build amazing products with amazing teams<br><br>- ⚡ In my free time you can usually find me tinkering with new technologies, giving back to the community by contributing to open source, and pushing the boundaries of the web making it accessible to all</p>
+<p align="left">I'm Gideon, a front-end web developer with 2+ years of experience from Ghana<br><br>- 🔭 I’m working to become a techpreneur, founder and software engineer, building amazing products and turning pain points into solutions in Africa and the whole world. Also learning product management, web3 and cyber security (because why not?)  <br><br>- 📚 I'm currently learning about the backend so that I can transition into a full-stack developer and build amazing products with amazing teams<br><br>- ⚡ In my free time you can usually find me tinkering with new technologies, giving back to the community by contributing to open source, and pushing the boundaries of the web making it accessible to all</p>
 
 ###
 
